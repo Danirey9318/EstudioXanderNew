@@ -1,1 +1,1 @@
-alert("siguenos ne Instagram y Facebook")
+alert("siguenos en Instagram y Facebook")
